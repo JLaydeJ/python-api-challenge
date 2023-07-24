@@ -12,11 +12,8 @@ To get started, the code required to generate random geographic coordinates and 
 To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, you'll create a series of scatter plots to showcase the following relationships:
 
 - Latitude vs. Temperature
-
 - Latitude vs. Humidity
-
 - Latitude vs. Cloudiness
-
 - Latitude vs. Wind Speed
 
 # WeatherPy Requirement 2: Compute Linear Regression for Each Relationship
@@ -27,12 +24,9 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 You should create the following plots:
 
 - Northern Hemisphere: Temperature vs. Latitude
-
 - Southern Hemisphere: Temperature vs. Latitude
-
 - Northern Hemisphere: Humidity vs. Latitude
-
- -Southern Hemisphere: Humidity vs. Latitude
+- Southern Hemisphere: Humidity vs. Latitude
 - Northern Hemisphere: Cloudiness vs. Latitude
 - Southern Hemisphere: Cloudiness vs. Latitude
 - Northern Hemisphere: Wind Speed vs. Latitude
