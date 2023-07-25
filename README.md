@@ -23,7 +23,8 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 # WeatherPy Requirement 2: Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
 
-Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r values as you can see in the following image![Fig5](https://github.com/JLaydeJ/python-api-challenge/assets/134284646/ffa5747e-c0db-4d97-8505-29ad1173a8c6)
+Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r values as you can see in the following image
+![Fig5](https://github.com/JLaydeJ/python-api-challenge/assets/134284646/ffa5747e-c0db-4d97-8505-29ad1173a8c6)
 
 
 You should create the following plots:
