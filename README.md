@@ -60,7 +60,7 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 - Wind speed less than 4.5 m/s
 - Zero cloudiness
 
-3.Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
+ 3.Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 
 4. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
 
