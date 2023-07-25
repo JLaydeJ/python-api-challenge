@@ -24,7 +24,8 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
 
 Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r values as you can see in the following image
-![Fig5](https://github.com/JLaydeJ/python-api-challenge/assets/134284646/ffa5747e-c0db-4d97-8505-29ad1173a8c6) 
+![Fig4](https://github.com/JLaydeJ/python-api-challenge/assets/134284646/7930ce5b-29c0-41cf-848a-ade8ae1d44da)
+
 
 
 You should create the following plots:
@@ -51,7 +52,8 @@ Your main tasks will be to use the Geoapify API and the geoViews Python library 
 To succeed on this deliverable of the assignment, open the VacationPy.ipynb starter code and complete the following steps:
 
 1. Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
-![image](https://github.com/JLaydeJ/python-api-challenge/assets/134284646/d6481091-40e5-4b6a-8650-f11f78a30e39)
+![image](https://github.com/JLaydeJ/python-api-challenge/assets/134284646/a9331bc9-6392-4f02-b299-f386ef619a42)
+
 
 2. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
 - A max temperature lower than 27 degrees but higher than 21
@@ -63,5 +65,6 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 4. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
    
 5. Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
-  ![image](https://github.com/JLaydeJ/python-api-challenge/assets/134284646/c7a292f2-ba4e-44f8-9baf-0cbc3f4b5477)
+ ![image](https://github.com/JLaydeJ/python-api-challenge/assets/134284646/c8749617-f8d6-4a36-861a-b60c4cdfe666)
+
 
